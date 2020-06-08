@@ -7,3 +7,5 @@
 **stars around words**
 
 _underscore words_
+
+* bullet point
