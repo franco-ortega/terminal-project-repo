@@ -6,4 +6,4 @@
 
 **stars around words**
 
-__underscore words__
+_underscore words_
